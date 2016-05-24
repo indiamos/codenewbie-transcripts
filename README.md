@@ -2,4 +2,4 @@
 
 Transcripts! Of CodeNewbie Podcast episodes.
 
-These transcripts include everything except unironic _um_s and stammering. _You know_s/_y’know_s have been retained.
+These transcripts include everything except unironic *um*s and stammering. *You know*s, *y’know*s, and *like*s have been retained.
