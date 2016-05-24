@@ -6,7 +6,7 @@ There is no way one person is going to find time to transcribe them all, while k
 
 
 | Ep. # | Guest (with transcript link) | Title (with podcast link) | Transcriber
-| ----------- | ----- | ----- | ----- | --- |
+| -----------: | ----- | ----- | ----- | --- |
 | 1 | [Carlos Lazo](https://github.com/indiamos/codenewbie-transcripts/blob/master/01%20Carlos%20Lazo.md) | [Bootcamps, Water Coolers, and Hiring Devs](http://www.codenewbie.org/podcast/ep-1-bootcamps-water-coolers-and-hiring-devs) | indiamos |
 | 2 | Brian Douglas | [Coding Like a Boss](http://www.codenewbie.org/podcast/ep-2-coding-like-a-boss-w-brian-douglas) | |
 | 3 | Felicia O&#39;Garro, Jamal O&#39;Garro | [Code Couple](http://www.codenewbie.org/podcast/ep-3-code-couple) | |
